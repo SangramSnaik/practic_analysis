@@ -1,2 +1,2 @@
 # practic_analysis
-practice
+practicing data analysis
